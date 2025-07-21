@@ -17,11 +17,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -33,8 +37,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAL8UAAAAAAAAAAAqwMkUAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-21T06:41:37.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-21T06:41:37.064Z"
             },
             {
               "$type": "Document",
@@ -44,7 +47,7 @@
               "RelativeDocumentMoniker": "GitHub_TEST_01\\Program.cs",
               "ToolTip": "C:\\Users\\SuperNotebook\\source\\repos\\GitHub_TEST_01\\GitHub_TEST_01\\Program.cs",
               "RelativeToolTip": "GitHub_TEST_01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T06:35:03.334Z",
               "EditorCaption": ""
